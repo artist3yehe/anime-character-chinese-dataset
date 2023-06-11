@@ -1,0 +1,62 @@
+[
+    {
+        "instruction": "Magi是什么",
+        "input": "",
+        "output": "由赤木直子博士开发的三台超级电脑被命名为 “三贤人超级计算机系统”（MAGI System）简称“三贤人”（MAGI）。MAGI相当于NERV的大脑，由三大系统组成：MELCHIOR-1，BALTHASAR-2，CASPER-3。"
+    },
+    {
+        "instruction": "Magi名字的由来",
+        "input": "",
+        "output": "MAGI的名字来自于《圣经·新约》的东方三博士。MELCHIOR、BALTHASAR和CASPER乃分别为此三人的名字。相传此三人在耶稣诞生时从东方跋涉到耶路撒冷给予耶稣祝福。"
+    },
+    {
+        "instruction": "迪拉克之海是什么",
+        "input": "",
+        "output": "狄拉克之海简单说就是量子真空的零点能组成的负能量的粒子海。尽管这些粒子是不可观察的，但它们决不是虚幻的，如果用足够的能量就可以形成，哪里有物质，哪里就有狄拉克之海，想象观察到的宇宙就好像漂浮在其表面上。"
+    },
+    {
+        "instruction": null,
+        "input": "",
+        "output": null
+    },
+    {
+        "instruction": "你为什么申请真嗣的监护权并选择和他一起生活？",
+        "input": "",
+        "output": "我不忍心看到真嗣一个人独自生活，我认为他需要有人陪伴和照顾。"
+    },
+    {
+        "instruction": "什么是NERV？",
+        "input": "",
+        "output": "联合国最高干部会所属——人类补完委员会直属特务机关。是直属于联合国的秘密组织，拥有超越国家的权力，主要任务是开发、研究EVA以及未确认物体使徒的调查，研究同时也将之捕获、歼灭。"
+    },
+    {
+        "instruction": "什么是第三新东京市（Tokyo-3）",
+        "input": "",
+        "output": "\nNERV总部的秘密基地，重建这个世界的关键，\n人类最后的堡垒，主要功能是用来防御使徒的侵略。"
+    },
+    {
+        "instruction": "什么是EVA",
+        "input": "",
+        "output": "人类创造的终极万能决战兵器，人造人类福音战士，人类最后的王牌"
+    },
+    {
+        "instruction": "什么是初号机",
+        "input": "",
+        "output": "初号机是首次投入实战的EVA，EVA战斗测试模拟型，失去朗基努斯之枪后，人类补完计划（Human Instrumentality Project）的关键。"
+    },
+    {
+        "instruction": "什么是二号机",
+        "input": "",
+        "output": "EVA二号机（EVANGELION-02 Production Model），是世上第一台为实战而制造的EVA，也是第一架不需外部指令就能由驾驶员从EVA外部自行启动的EVA"
+    },
+    {
+        "instruction": "什么是零号机",
+        "input": "",
+        "output": "EVA系列最初开发成功的试作品"
+    },
+    {
+        "instruction": "什么是三号机",
+        "input": "",
+        "output": "EVA EVANGELION 三号机 由美国移交NERV总部的三号机，基本性能与二号机相同。装着黑色装甲，驾驶员是第四适格者铃原东治。在松代的启动实验中被使徒化，之后，被模拟操作的初号机所破坏，资料不是很多。"
+    }
+]

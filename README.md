@@ -1,9 +1,4 @@
 [**🇨🇳中文**](./README.md) | [**🌐English**](./README_EN.md) | [**🅱️B站**](https://space.bilibili.com/513453119)
-<p align="left">
-    <img alt="GitHub" src="https://img.shields.io/github/license/ymcui/Chinese-LLaMA-Alpaca.svg?color=blue&style=flat-square">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ymcui/Chinese-LLaMA-Alpaca">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ymcui/Chinese-LLaMA-Alpaca">
-</p>
 
 <p align="center">
     <br>
@@ -13,7 +8,7 @@
 
 
 
-最近汉语大模型呈现井喷发展，各个体系逐渐完善，语言类应用开始进入全民tuning训练阶段，AI角色个性化这件事作为应用层用户体验的一个关键点也开始受到企业和个人玩家的重视。以促进中文AI角色创作为目标，本项目持续**采集典型二次元动漫角色对话资料（ACCD）**并将其存放在公开仓库中，这些数据可被用于AI角色训练或文学创作学习。
+最近汉语大模型呈现井喷发展，各个体系逐渐完善，语言类应用开始进入全民tuning训练阶段，AI角色个性化这件事作为应用层用户体验的一个关键点也开始受到企业和个人玩家的重视。以促进中文AI角色创作为目标，本项目持续**采集典型二次元动漫角色对话资料 ACCD**并将其存放在公开仓库中，这些数据可被用于AI角色训练或文学创作学习。
 
 ## 用户须知（必读）
 
